@@ -1,7 +1,10 @@
 # Identity-and-Access-Management-IAM-setup-with-AWS
-## What is IAM?
-IAM is 
-<img width="945" alt="Screenshot 2024-09-01 at 4 10 37 PM" src="https://github.com/user-attachments/assets/c9dbfa61-15d4-48e9-99f9-f46fc033d026">
+## What is AWS IAM?
+AWS Identity and Access Management (IAM) is used to control who is authenticated (signed in) and authorized (has permissions) to use your account's resources. 
+
+## Project Layout
+### The layout of the project looks like this:
+<img width="797" alt="Screenshot 2024-09-01 at 7 08 16 PM" src="https://github.com/user-attachments/assets/9a637a06-5d3b-4ae9-8792-acfa9b61dbce">
 
 
 
