@@ -1,6 +1,6 @@
 # Identity-and-Access-Management-IAM-setup-with-AWS
 ## What is AWS IAM?
-AWS Identity and Access Management (IAM) is used to control who is authenticated (signed in) and authorized (has permissions) to use your account's resources. 
+### AWS Identity and Access Management (IAM) is used to control who is authenticated (signed in) and authorized (has permissions) to use your account's resources. 
 
 ## Project Layout
 ### The layout of the project looks like this:
